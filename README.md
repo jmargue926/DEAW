@@ -13,7 +13,3 @@ David 				https://github.com/dvd767
 Jaime 				https://github.com/JaimeSanchez75
 
 Rafa				https://github.com/Rafajmm
-
-Marcos              https://github.com/MarcosPozo15
-
-Sandra              https://github.com/sandroski95/DEAW
